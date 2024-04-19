@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋 My name is Kelvin Anderson
+========================================================================================================================================
 
-<!--
-**KelvinAnderson10/KelvinAnderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I am a Full-stack Developer based in Indonesia.
+> Mostly active in front-end development
 
-Here are some ideas to get you started:
+## Skills
+### Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-end
+[![My Skills](https://skillicons.dev/icons?i=go,python)](https://skillicons.dev)
